@@ -15,3 +15,9 @@ logical change?
 
 I can use git status and diff to make sure everything I am about to commit
 is exactly what I want to commit.
+
+4. What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+They are logically separate versions of the project that exist separately,
+so a stable version of the project is safe.
