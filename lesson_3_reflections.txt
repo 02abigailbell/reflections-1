@@ -9,3 +9,9 @@ automatically stay up-to-date with your remote repository?
   -I might be working on something I don't want to release publicly to GitHub
    quite yet, and I want to be able to push my changes when I am ready.
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+  -forks: cloning from one GitHub repository to another GitHub repository.
+  -clones: makes a copy of a repository to a local machine.
+  -branches: making commits that aren't part of the main master log of 
+   commits.
