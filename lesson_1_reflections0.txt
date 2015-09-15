@@ -1,5 +1,0 @@
-How did viewing a diff between two versions help you see the bug that was
-introduced?
-
-It highlights the differences between the versions and greatly narrows down 
-where the bug could be.
