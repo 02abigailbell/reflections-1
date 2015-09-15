@@ -24,5 +24,11 @@ so a stable version of the project is safe.
 
 5. How do the diagrams help you visualize the branch structure?
 
-The show clearly the parent of each commit and the relationship between 
+To show clearly the parent of each commit and the relationship between 
 branches.
+
+6. What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+It combines two branches into one branch. The resulting commit has two
+parents: the heads of the two branches it merged.
