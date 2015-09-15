@@ -21,3 +21,8 @@ history organized? How would branches help?
 
 They are logically separate versions of the project that exist separately,
 so a stable version of the project is safe.
+
+5. How do the diagrams help you visualize the branch structure?
+
+The show clearly the parent of each commit and the relationship between 
+branches.
