@@ -32,3 +32,9 @@ represent it in the diagram the way we do?
 
 It combines two branches into one branch. The resulting commit has two
 parents: the heads of the two branches it merged.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+Git's automatic merging is very efficient and easy. However, merge conflicts
+require the authors to resolve differences in code that git couldn't handle.
