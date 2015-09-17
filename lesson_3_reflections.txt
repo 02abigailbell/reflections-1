@@ -22,3 +22,13 @@ stored locally?
    of the remote
   -the local will be able to easily see changes that have been made to the
    remote since the last pull
+
+How would you collaborate without using Git or GiHub? What would be easier, 
+and what would be harder?
+  -git does a good job of keeping a stable public version of the project safe
+   so developers can experiment with different features on their own while
+   all working together on the same project at the same time. this can be very
+   difficult without git.
+  -one of the only downsides to using git is the inconvenience of constantly
+   adding, committing, pulling, and pushing. but this keeps things secure and
+   safe
