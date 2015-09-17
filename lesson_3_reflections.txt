@@ -15,3 +15,10 @@ use one instead of another?
   -clones: makes a copy of a repository to a local machine.
   -branches: making commits that aren't part of the main master log of 
    commits.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+  -easily reconcile differences between the last known and the actual state
+   of the remote
+  -the local will be able to easily see changes that have been made to the
+   remote since the last pull
